@@ -14,3 +14,12 @@ This repositoties is based on "밑바닥부터 시작하는 딥러닝"
 - <a href="https://velog.io/@yulim2/Algorithm-%EB%8B%A4%EC%A4%91-%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0%EC%9C%BC%EB%A1%9C-NOR-%EA%B5%AC%ED%98%84">다중 퍼셉트론으로 NOR 구현</a>
 
 ### <a href="https://velog.io/@yulim2/Neural-Network-%EC%8B%A0%EA%B2%BD%EB%A7%9D">신경망 🧠 </a> 
+
+<br>
+___
+
+<br>
+
+동아리 멘토선생님께서 데이터분석부터 공부하라고 말씀하셔서 잠시 중단
+2021.12.10
+
