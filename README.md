@@ -26,3 +26,6 @@ ___
 > ### 파이썬 라이브러리를 활용한 머신러닝 🏃‍♂️
 
 - <a href="https://velog.io/@yulim2/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%B8%EA%B0%80">왜 머신러닝인가?</a>
+
+
+- scikit-learn 설치
