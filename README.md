@@ -17,4 +17,5 @@
 - <a href="https://velog.io/@yulim2/%EA%B5%90%EC%B0%A8-%EA%B2%80%EC%A6%9D-K-Fold-Stratified-K-Fold">Cross Validation</a>
 
 - <a href="https://velog.io/@yulim2/%EB%B6%84%EB%A5%98-%EC%84%B1%EB%8A%A5-%ED%8F%89%EA%B0%80-%EC%A7%80%ED%91%9C-Classification">Classification Evaluation Metrics</a>
+    - <a href="https://github.com/YuLim2/Deep-Learing-Machine-Learning/blob/main/Study/evaluation-metric-test-pima-taset.ipynb">Classification evaluation metrics test with Pima indian dataset
 
