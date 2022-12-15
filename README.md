@@ -19,3 +19,4 @@
 - <a href="https://velog.io/@yulim2/%EB%B6%84%EB%A5%98-%EC%84%B1%EB%8A%A5-%ED%8F%89%EA%B0%80-%EC%A7%80%ED%91%9C-Classification">Classification Evaluation Metrics</a>
     - <a href="https://github.com/YuLim2/Deep-Learing-Machine-Learning/blob/main/Study/evaluation-metric-test-pima-taset.ipynb">Classification evaluation metrics test with Pima indian dataset
 
+- <a href="https://velog.io/@yulim2/%EB%B6%84%EB%A5%98Classification-%EA%B0%9C%EC%9A%94-%EA%B2%B0%EC%A0%95%ED%8A%B8%EB%A6%ACDecision-Tree">Classification and Decision tree</a>
